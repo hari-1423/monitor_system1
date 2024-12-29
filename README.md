@@ -13,5 +13,5 @@ This script monitors system performance, providing insights into CPU usage, memo
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/monitor_system.git
-   cd monitor_system
+   git clone https://github.com/hari-1423/monitor_system1
+   cd monitor_system1
