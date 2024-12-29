@@ -1,0 +1,6 @@
+System Performance Report
+Metric         Value
+-------------- -----------------------------------------------------------
+CPU Usage      15.3%
+Memory Usage   Total: 16777216000, Used: 12582912000, Free: 4194304000
+Disk Usage     /: Total 512000000000, Used 256000000000, Free 256000000000
